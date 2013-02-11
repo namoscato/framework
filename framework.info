@@ -1,0 +1,22 @@
+name = Framework
+description = Framework is a blank canvas for theme developers.
+core = 7.x
+version = "7.x-1.0"
+engine = phptemplate
+
+stylesheets[all][] = css/normalize.css
+stylesheets[all][] = css/main.css
+stylesheets[all][] = css/style.css.less
+
+scripts[] = js/lib/modernizr-2.6.2.min.js
+scripts[] = js/lib/plugins.js
+scripts[] = js/lib/main.js
+
+regions[header]         = Header
+regions[highlighted]    = Highlighted
+regions[help]           = Help
+regions[content]        = Content
+regions[sidebar]        = Sidebar
+regions[footer]         = Footer
+
+
