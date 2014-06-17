@@ -12,6 +12,7 @@ These are some modules that I probably couldn't live without.
 * [Content Access](https://drupal.org/project/content_access) for restricting content based on user roles
 * [Date](https://drupal.org/project/date) for any time-oriented content
 * [Devel](https://drupal.org/project/devel) for inspecting PHP objects
+* [Disable Term Node Listings](https://drupal.org/project/disable_term_node_listings) because Views are better 
 * [Disqus](https://drupal.org/project/disqus) for awesome commenting
 * [DraggableViews](https://drupal.org/project/draggableviews) & [Entity](https://drupal.org/project/entity) for rearranging views
 * [Email](https://drupal.org/project/email) for simple email fields
@@ -25,3 +26,4 @@ These are some modules that I probably couldn't live without.
 * [Views](https://drupal.org/project/views) & [Chaos Tools](https://drupal.org/project/ctools) for almost everything
 * [Webform](https://drupal.org/project/webform) for making surveys
 * [Wysiwyg](https://drupal.org/project/WYSIWYG) with [CKEditor](http://cksource.com/ckeditor) for content creation
+* [XML sitemap](https://drupal.org/project/xmlsitemap) for SEO shenanigans
